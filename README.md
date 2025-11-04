@@ -23,4 +23,7 @@ I am a passionate IT student at Xavier Univerity Ateneo de Cagayan, driven by a 
 -  final API project.
 -  final MobileApp project
 
+## Fun Fact!
+I'm from Surigao del Norte
+
 Thanks for stopping by!
