@@ -1,4 +1,4 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Jesmund Libar! 👋
 
 I am a passionate IT student at Xavier Univerity Ateneo de Cagayan, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 [![jesmundlibar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesmundlibar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/jesmundlibar)
